@@ -20,7 +20,7 @@ Crunchy is a lightweight Browser with a great User Experience, compatible with a
 ### iPhone
 <img src="https://i.imgur.com/uBGmBa8.jpg" width="280" style="display: inline-block;"><img src="https://i.imgur.com/nGBlsjs.jpg" width="280" style="display: inline-block;"><img src="https://i.imgur.com/uBGmBa8.jpg" width="280" style="display: inline-block;">
 
--
+
 
 ### iPad
 ![Crunchy iPad](https://i.imgur.com/5NmTHHO.jpg)
